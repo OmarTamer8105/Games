@@ -1,4 +1,8 @@
-
+'''
+# Games with Python #
+## Breakout ##
+## Aouther: Omar Tamer #
+'''
 
 import pygame
 import sys
